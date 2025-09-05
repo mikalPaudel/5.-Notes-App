@@ -52,11 +52,10 @@
     border-radius: 10px;
 }
 
-#dlt{
+.input-box img{
     position: absolute;
-    background-color: #333;
-    color: white;
-    padding: 5px 10px;
+    width: 30px;
+    padding: 5px;
     border-radius: 5px;
     bottom: 15px;
     right: 15px;
